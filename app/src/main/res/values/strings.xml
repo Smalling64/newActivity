@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">newActivity</string>
+
+    <string name="activity1">What is my name?</string>
+    <string name="activity2">Christopher Narh</string>
+
+    <string name="button">Change Activity</string>
+</resources>
